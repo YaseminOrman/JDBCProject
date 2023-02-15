@@ -16,10 +16,6 @@ public class Execute01 {
        String sql3 = "drop table workers";
        st.execute(sql3);
 
-
-
-
-
        con.close();
        st.close();
 
